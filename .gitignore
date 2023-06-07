@@ -1,4 +1,4 @@
 **/.ipynb_checkpoints/
-**/.xls/
-**/.xlsx/
-**/.docx/
+*.xls
+*.xlsx
+*.docx
