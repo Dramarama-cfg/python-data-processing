@@ -2,7 +2,7 @@
 
 Hi, guys. Welcome to this repository created to showcase my skills.
 
-Projects in this repository are related to data processing, web scraping and data validation. The primary focus of these projects has been to automate daily processes, enhance efficiency, and minimize human errors.
+Projects in this repository are related to data processing, web scraping and data validation. The primary focus of these projects are to automate daily processes, enhance efficiency and minimize human errors.
 
 Through these projects, I have aimed to demonstrate my ability to develop practical solutions that streamline workflows and improve overall productivity.
 
