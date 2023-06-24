@@ -2,9 +2,7 @@
 
 Hi, guys. Welcome to this repository created to showcase my skills.
 
-Projects in this repository are related to data processing, web scraping and data validation. The primary focus of these projects are to automate daily processes, enhance efficiency and minimize human errors.
-
-Through these projects, I have aimed to demonstrate my ability to develop practical solutions that streamline workflows and improve overall productivity.
+Projects here are related to data engineering. 
 
 Each project is presented in the form of a Jupyter notebook and does not include separate source files. Instead, the Jupyter notebook serve as an overview of the project, accompanied by comments explaining the main parts of the code and its functionality.
 
