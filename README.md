@@ -1,6 +1,6 @@
 # Data Analyst portfolio
 
-Hi, guys. Welcome to this repository created to showcase my skills. Projects here are related to data engineering. 
+Hi, guys. Welcome to this repository created to showcase my skills.
 
 Each project is presented in the form of a Jupyter notebook and does not include separate source files. Instead, the Jupyter notebook serve as an overview of the project, accompanied by comments explaining the main parts and its functionality.
 
