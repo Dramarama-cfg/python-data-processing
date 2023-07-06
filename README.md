@@ -8,7 +8,4 @@ Each project is presented in the form of a Jupyter notebook and does not include
 
 Please feel free to explore the projects and reach out if you have any questions. Thank you for visiting! :)
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/savliak/"
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savliak/)
