@@ -4,4 +4,4 @@ docker run -d \
   -e MYSQL_ROOT_PASSWORD=test123 \
   -v $PWD/data:/var/lib/mysql \
   genschsa/mysql-employees
-read -p "Press any key to exit"
+read -p "Press enter to exit"
